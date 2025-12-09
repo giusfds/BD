@@ -1,30 +1,31 @@
-🗄️ Banco de Dados
+# 🗄️ Banco de Dados — PUC Minas
 
-Este repositório reúne anotações, exercícios, códigos SQL e demais conteúdos relacionados à disciplina Banco de Dados, ministrada pela professora Ilo Amy Saldanha Rivero.
+Repositório dedicado às anotações, exercícios, modelos e scripts SQL desenvolvidos ao longo da disciplina **Banco de Dados**, ministrada pela professora **Ilo Amy Saldanha Rivero**.
 
-📚 Sobre a disciplina
+## 📚 Conteúdo da Disciplina
 
-A matéria explora os princípios e técnicas fundamentais para o desenvolvimento, modelagem e gerenciamento de sistemas de banco de dados, com foco em:
+A disciplina aborda os fundamentos essenciais para o projeto, modelagem e gerenciamento de bancos de dados relacionais, incluindo:
 
-    📊 Modelagem de Dados: criação de diagramas entidade-relacionamento (ER) e normalização de bases de dados para garantir eficiência e integridade.
-    🔍 SQL e Consultas: domínio da linguagem SQL para criação, manipulação e consulta de dados (DDL, DML, DQL).
-    🏗️ Design de Banco de Dados: estruturação adequada de tabelas, relacionamentos, chaves primárias e estrangeiras.
-    ⚡ Otimização e Performance: técnicas de indexação, otimização de queries e análise de planos de execução.
-    🔐 Integridade e Segurança: implementação de constraints, triggers, procedures e controle de acesso.
-    💾 Transações e Concorrência: gerenciamento de transações, propriedades ACID e controle de concorrência.
+* **Modelagem de Dados:** diagramas ER, normalização e boas práticas de construção de esquemas.
+* **Linguagem SQL:** criação, manipulação e consulta de dados (DDL, DML, DQL).
+* **Projeto de Banco de Dados:** definição de tabelas, relacionamentos, chaves e integridade referencial.
+* **Otimização:** indexação, ajuste de queries e análise de planos de execução.
+* **Segurança e Integridade:** constraints, triggers, stored procedures e controle de acesso.
+* **Transações:** propriedades ACID, isolamento e controle de concorrência.
 
+## 🎯 Objetivo do Repositório
 
-🎯 Objetivo
+Organizar e centralizar materiais para estudo e revisão, incluindo:
 
-Consolidar o aprendizado prático e teórico da disciplina, servindo como material de apoio para estudos, provas e projetos relacionados ao desenvolvimento e gerenciamento de bancos de dados relacionais.
+* Exemplos de código
+* Exercícios resolvidos
+* Resumos teóricos
+* Projetos e modelagens
+* Scripts de criação e manipulação de bancos
 
-📌 **Este repositório é mantido por alunos da PUC Minas, com o intuito de organizar e compartilhar os conteúdos estudados ao longo do semestre.**
+Este repositório serve como apoio para provas, trabalhos práticos e aprofundamento individual.
 
----
+## 🏫 Sobre
 
-🎯 Objetivo
-
-Consolidar o aprendizado prático e teórico da disciplina, servindo como material de apoio para estudos, provas e projetos relacionados ao desenvolvimento e gerenciamento de bancos de dados relacionais.
-
-    📚 Este repositório é mantido por alunos da PUC Minas, com o intuito de organizar e compartilhar os conteúdos estudados ao longo do semestre.
+Este projeto é mantido por alunos da **PUC Minas**, com o intuito de documentar e compartilhar o conteúdo estudado ao longo do semestre.
 
