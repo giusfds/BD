@@ -1,0 +1,25 @@
+Exercício 7 - DDL
+
+Execute os exercícios abaixo, gerando o script SQL correspondente e colocando-o em um documento de texto.
+
+1) Crie uma tabela chamada Estudantes com os seguintes campos: id (inteiro), nome (texto), email (texto) e idade (inteiro).
+
+2) Adicione uma nova coluna chamada endereço à tabela Estudantes.
+
+3) Renomeie a tabela Estudantes para Alunos.
+
+4) Exclua a coluna idade da tabela Alunos.
+
+5) Crie uma tabela chamada Professores com os seguintes campos: id (inteiro), nome (texto), email (texto) e disciplina (texto).
+
+6) Adicione uma nova coluna chamada salário à tabela Professores.
+
+7) Exclua a tabela Professores.
+
+8) Crie duas tabelas, Autores e Livros. Autores deve ter os campos id (inteiro) e nome (texto). Livros deve ter os campos id (inteiro), titulo (texto) e autor_id (inteiro).
+
+9) Adicione uma chave estrangeira à tabela Livros que referencia o id na tabela Autores.
+
+10) Crie uma tabela Pedidos com os campos id (inteiro), produto (texto), quantidade (inteiro) e cliente_id (inteiro). Em seguida, crie uma tabela Clientes com os campos id (inteiro) e nome (texto). Adicione uma chave estrangeira à tabela Pedidos que referência o id na tabela Clientes.
+
+Suba um arquivo PDF com as respostas e o dump dos schemas do banco de dados.
